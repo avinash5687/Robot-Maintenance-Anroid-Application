@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BajajJHAndPM"
         tools:targetApi="31">
+
         <activity
             android:name=".ScanActivity"
             android:exported="false">
